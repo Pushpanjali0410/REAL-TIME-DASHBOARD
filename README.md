@@ -26,20 +26,20 @@
 
 ###### 4)  Dataset Description: This JSON data provides a 5-day weather forecast (June 16–21, 2025) for Moscow, Russia, with 3-hour intervals.
 
-Temperature: Ranges from 12.5°C (54.5°F) to 24°C (75.2°F).
+- Temperature: Ranges from 12.5°C (54.5°F) to 24°C (75.2°F).
 
-Conditions: Mix of clouds, light rain, and overcast skies (June 17–20 are wettest).
+- Conditions: Mix of clouds, light rain, and overcast skies (June 17–20 are wettest).
 
-Rainfall: June 17–18 has persistent rain (up to 2.37 mm/hour).
+- Rainfall: June 17–18 has persistent rain (up to 2.37 mm/hour).
 
-Humidity: High (75–95%) on rainy days, lower (~50%) on clearer days.
+- Humidity: High (75–95%) on rainy days, lower (~50%) on clearer days.
 
-Wind: Gusts up to 11.99 m/s (43 km/h) on stormy days (June 19–20).
+- Wind: Gusts up to 11.99 m/s (43 km/h) on stormy days (June 19–20).
 
-Pressure: Stable (~1008 hPa), dropping slightly before rain.
+- Pressure: Stable (~1008 hPa), dropping slightly before rain.
 
-Visibility: Consistently 10 km except during heavy rain.
+- Visibility: Consistently 10 km except during heavy rain.
 
-Sunrise/Sunset: ~04:44 AM / 09:56 PM (June 16).
+- Sunrise/Sunset: ~04:44 AM / 09:56 PM (June 16).
 
-Trend: Starts mild (June 16), turns wet/cool (June 17–19), dries by June 21.
+- Trend: Starts mild (June 16), turns wet/cool (June 17–19), dries by June 21.
