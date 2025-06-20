@@ -22,7 +22,7 @@
 
 ###### 2) Click on import data from web and select required web feed .
 
-###### 3) Select openweather for the real time weather dashboard .
+###### 3) Select openweather for the real time weather dashboard and signup to create your own free API Key, add the API Key to web url.
 
 ###### 4)  Dataset Description: This JSON data provides a 5-day weather forecast (June 16–21, 2025) for Moscow, Russia, with 3-hour intervals.
 
