@@ -43,3 +43,7 @@
 - Sunrise/Sunset: ~04:44 AM / 09:56 PM (June 16).
 
 - Trend: Starts mild (June 16), turns wet/cool (June 17–19), dries by June 21.
+
+###### 5) Add visual elements to dashboard and organise the visuals .
+
+###### 6) Save the dashboard .
